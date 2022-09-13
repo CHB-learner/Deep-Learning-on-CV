@@ -1,0 +1,10 @@
+PYTORCH:
+https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html#load-and-normalize-cifar10
+
+卷积神经网络 :     (必看)
+https://www.bilibili.com/video/BV1x44y1P7s2?spm_id_from=333.337.search-card.all.click&vd_source=f85eb6ada6324b9c99a2057597d06c6b
+
+LeNet详解：    (选看)
+https://blog.csdn.net/qq_42570457/article/details/81460807?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166113693816780366555566%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=166113693816780366555566&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-81460807-null-null.142^v42^pc_rank_34_1,185^v2^tag_show&utm_term=Lenet&spm=1018.2226.3001.4187
+
+https://blog.csdn.net/u013963380/article/details/93316111?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166113745316781685360437%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=166113745316781685360437&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_ecpm_v1~hot_rank-5-93316111-null-null.nonecase&utm_term=Lenet%E8%AE%BA%E6%96%87%E5%B8%A6%E8%AF%BB&spm=1018.2226.3001.4450
